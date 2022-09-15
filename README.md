@@ -1,1 +1,20 @@
-# NLW Perfil 
+# NLW-eSports Projeto 
+
+![preview](./img.png)
+> Trilha explorer
+
+Construido no evento da Rocketseat.
+
+🔗[Clique aqui para acessar](https://eduevangelista.github.io/nlw-perfil/)
+
+
+
+## 🛠 Tecnologias   
+
+- HTML
+- CSS
+- Git e Github
+
+## Contato
+- eduevangelista99@gmail.com
+- (11) 95933-1973
