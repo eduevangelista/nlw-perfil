@@ -4,7 +4,7 @@
 > Trilha explorer
 
 Construido no evento da Rocketseat.
-
+Cancel changes
 🔗[Clique aqui para acessar](https://eduevangelista.github.io/nlw-perfil/)
 
 
@@ -15,6 +15,6 @@ Construido no evento da Rocketseat.
 - CSS
 - Git e Github
 
-## Contato
+## 📞 Contato
 - eduevangelista99@gmail.com
 - (11) 95933-1973
