@@ -1,7 +1,7 @@
 # NLW-eSports Projeto 
 
 ![preview](./assets/preview.png)
-> Trilha explorer
+
 
 Construido no evento da Rocketseat.
 
